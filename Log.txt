@@ -1,0 +1,14 @@
+[오전 9:56] Game changed to 'Rhythm Doctor'.
+[오전 9:56] Game path 'G:\SteamLibrary\steamapps\common\Rhythm Doctor'.
+[오전 9:56] Checking for updates.
+[오전 9:56] No updates.
+[오전 9:56] =======================================
+[오전 9:56] Applying patch to 'UnityEngine.UIModule.dll'...
+[오전 9:56] Copying files to game...
+[오전 9:56]   0Harmony.dll
+[오전 9:56]   dnlib.dll
+[오전 9:56]   UnityModManager.dll
+[오전 9:56]   UnityModManager.xml
+[오전 9:56] Creating configs...
+[오전 9:56]   Config.xml
+[오전 9:56] Installation was successful.
